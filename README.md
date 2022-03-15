@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning STM32 microcontrollers for embedded systems and creating mobile game on Unity... 
 - 💞️ I’m looking to collaborate on IDK i can need everything on everytime :swh:
 - 📫 burakaansahin@gmail.com
-
+- 👀 You can check my NFT collection: https://opensea.io/wazzap
