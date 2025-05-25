@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wazzapsenk](https://github.com/wazzapsenk)
+- 👨‍💻 Most of my projects are available at [GitHub](https://github.com/wazzapsenk)
 
 - 💬 Ask me about **embedded systems, Flutter and Unity**
 
 - 📫 How to reach me **burakaansahin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Kg5Ce3CxkSndL7wss8B3pb6TrX5A7-4G/view?usp=sharing](https://drive.google.com/file/d/1Kg5Ce3CxkSndL7wss8B3pb6TrX5A7-4G/view?usp=sharing)
+- 📄 Know about my experiences check [My Resume](https://drive.google.com/file/d/1Vdn9E19z38F_nC8IkOD7ME3N40RQN1bK/view?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
