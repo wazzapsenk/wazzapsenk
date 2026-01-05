@@ -23,14 +23,18 @@
 - CI/CD Pipelines with GitHub Actions  
 
 ### 👨‍💻 Projects
-- 🕹️ **The Traitor in the Kitchen** → FishNet + Steamworks co-op prototype  
-- 🍳 **Restoran Rolleri** → Multiplayer restaurant party game  
-- 🔧 **MetaFileScaler** → Unity Editor tool for scaling YAML/JSON data  
+- 🕹️ **The Traitor in the Kitchen** → FishNet + Steamworks co-op restaurant management game  (In Progress)
+- 🕹️ **Mayday Protocol** → Co-op puzzle game
+- 🔧 **Assets Management Tool** → Unity Editor tool for managing assets and to reduce size of app
+- 🔧 **Meta File Scaler** → Unity Editor tool for scaling YAML/JSON data
+- 📱 **Food Delivery** →  Firebase + Firestore + Auth used flutter application for meal order
+- 🕹️ **Insane Tile** → Tile Match game developed with unity and published on play store (+1000 user)
+- 🕹️ **Boom Blocks** → Match-3 Blast game
 
 ---
 
 ### 💬 Ask me about
-- Unity (C#, DOTween, Zenject, Addressables)  
+- Unity (C#, DOTween, Zenject, Addressables, FishNet, ECS)  
 - Flutter (Dart, Firebase, API integration)  
 - CI/CD automation with GitHub Actions  
 
